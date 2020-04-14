@@ -7,4 +7,5 @@ def change
     t.string :location 
     t.integer :costume_inventory
     t.integer :num_of_employees
-    
+    t.string :still_in_business
+    t.
